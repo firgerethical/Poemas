@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown en GitHub Pages</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="contenedor">
+        <h1 id="titulo">Un alama limpia</h1>
+        <img id="imagen" src="paisaje.jpg" alt="Imagen representativa">
+        <div id="contenido-md"></div>
+    </div>
+    <script>
+        fetch('alma.md')  
+            .then(response => response.text())
+            .then(text => {
+                let converter = new showdown.Converter();
+                document.getElementById('contenido-md').innerHTML = converter.makeHtml(text);
+            });
+    </script>
+</body>
+</html>
