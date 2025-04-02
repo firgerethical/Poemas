@@ -1,39 +1,53 @@
-La vi de frente, lagrimas escurrían ¿Tuyas o mías? 
+La vi de frente:
+lágrimas escurrían —¿tuyas o mías?—
 
-Escuchaba tus palabras esperando me hicieran más fuerte
+Escuchaba tus palabras, esperando me hicieran más fuerte...
+Y ahora, como un desterrado,
+me dispongo a pensarte en mi fuerte:
+atizo mis mañanas con severa realidad,
+mi ánimo senoidal.
 
-Y ahora, como un desterrado, me dispongo a pensarte en mi fuerte
+Esos momentos donde me siento mi dios y dueño,
+y otras donde me achico
+hasta caber en el hueco de tu sombra.
 
-Atizo mis mañanas con severa realidad, mi animo senoidal
+Mi camino es el recuerdo de un atardecer de domingo
+donde el último rayo de sol —¡ay!— ahora es ceniza.
 
-Esos momentos donde me siento mi dios y dueño
+Eras mi templo: en ti adoré la protección de tus caricias,
+esa sonrisa que juré sería eterna...
 
-Y otras donde me siento de lo más pequeño.
+Tu mirada de gato vigilante
+se esfumó —
+ahora es solo un rato
+que maúlla en mis noches sin dueño.
 
-Mi camino se ha transformado en el recuerdo de un atardecer de domingo
+Busco que la escritura me salve de mis arrebatos
+—tinta digital contra cicatrices—
+pues aprendo del dolor
+aunque el viento no esté a mi favor:
+me regala recuerdos
+en lo fino de tu olor...
 
-En donde el ultimo rayo de sol ahora es ceniza 
+¡Desvinculación! Eso me hace fuerte.
 
-Eras mi templo, en ti adoro la protección de tus caricias y esa sonrisa
+Quizás no vuelva a tenerte,
+no podré pasar la noche en tu vientre...
 
-Tu mirada vigilante como gato, se ha esfumado, ahora se dispone a ser un rato 
+A mi dios le digo:
+«Amo sus paredes, sus palabras,
+ella es maldad envuelta en elegancia».
 
-Busco la escritura me salve de mis arrebatos, pues aprendo del dolor 
+Soy importante —eso me lo digo—
+pues ahora somos instantes,
+palabras embriagantes
+que adornan mi muerte...
 
-Aunque el viento no este a mi favor, me regala recuerdos gratos en lo fino de tu olor....
+Esta mente no necesita
+tranquilizante.
 
-Desvinculación, eso me hace fuerte
+Somos creadores de un bien mayor:
+no lo olvides.
 
-Quizás no vuelva a tenerte, no podre pasar la noche en tu vientre
+No amarte... será tu mayor error.
 
-A mi dios le digo, amo sus paredes, sus palabras, ella es el mal, sentimiento de elegancia
-
-Soy importante, eso me lo digo pues ahora somo instantes, palabras embriagantes
-
-Adornan mi muerte, ya no creo que mis signos me maten, esta mente no necesita
-
-Tranquilizante...
-
-
-
-La mejor, de las mejores.
